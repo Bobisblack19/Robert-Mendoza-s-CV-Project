@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>Robert Mendoza's CV</title>
+	</head>
+	<body>
+        <h1> Robert Mendoza </h1>
+        <p><strong><i> Software Engineer/Data Scientist </i></strong></p>
+        <p><small><i> Robertmendoza52@gmail.com</i></small></p>
+        <p><small><i> 917-609-2155</i></small></p>
+        <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.18169-9/10649672_10152774586753316_652567766889189309_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=Kd3BTa9XY4YAX_zd9Cu&_nc_ht=scontent-lga3-2.xx&oh=24d4f2240cf444eba8122431fba6bf2e&oe=612A6445"
+        height="150px" width="200px" alt=""/>
+        <hr/> 
+        <h2>Summary</h2>
+        <p> Trained social scientist who found computer science in his search for more accurate modeling of social phenomena.<br /><br /> Now, I create and test models and programs dedicated to helping my clients better understand their customers and their community. </p>
+        <h2><i>Experience</i></h2>
+        <ul>
+            <li><b>QI Analyst |</b> <i> The Childrens Village | </i> <i>May 2020-Present</i>
+            <p><small><i>The Children’s Village is a non-profit organization that works in partnership with low-income families to help society’s most vulnerable children.</i></small></p>
+            <ol> 
+                <li>Worked as part of the QI team using python, SQl and excel to collect, review, organize and analyze institutional data.</li>
+                <li>Facilitated an overall improvement in client engagement and retention, worker compliance, etc.</li>
+                <li>Successfully created, updated and improved databases tracking metrics including Client Relationship, mandated Facilitator/Client meetings, etc. that helped spur on an increased case completion rate of 20%</li>
+                <li>Successfully helped workers through the onboarding process, ensured completion of activities required under relevant accreditation standards and compliance with external monitoring expectations. </p>
+            </ol>
+            <li><b> Backroom Manager |</b> <i> Sidewalk Cafe | </i> <i> Jan. 2014-Feb. 2019 </i>
+            <p><small><i>Well known bar and venue that acted as the launching pad for acts like Jeff Lewis, Regina Spektor and the Moldy Peaches</i></small></p>
+            <ol>
+                <li>Successfully oversaw musical and artistic events booked at the venue from a logistics and technical standpoint, helping to strengthen and improve customer relationship between venue and patrons/performer</li>
+                <li>Coordinated with the general manager and booker to help increase the retention and patronage of performers, increasing repeat space bookings and customer loyalty.</li>
+                <li>Successfully helped to keep costs in check by troubleshooting and repairing all on-site technical issues, producing quotes for necessary off-site repairs, etc.</li>
+            </ol>
+            <li><b>Project Manager |</b><i> Holiday Image | </i> <i> Sep. 2011-Feb. 2018 </i>
+            <p><small><i>An interior decoration company focused on large scale Christmas and seasonal installations for professional settings.</i></small>
+            <ol>
+                <li>Oversaw and successfully achieved the logistics, planning and execution goals of large-scale industrial installations in spaces such as Macy’s Herald Square, Bloomingdales, Lord and Taylor 5th ave, etc. leading to an increase of 30% in customer retention and the acquisition of new projects.</li>
+                <li>Successfully supervised and directed crews of workers of up to 30 people depending on the project, while identifying strong talent for promotion, training new workers, etc.</li>
+                <li>Successfully avoided unnecessary expenditures and ensured the project came in on or under budget, leading to increased efficiency and workflow.</li>
+            <ol>
+        </ul>
+        <h2><i>Skills</i><h2>
+        <table border="3" align="left">
+            <tr >
+                <th><i><sup>Data Science</sup></i></th>
+                <td><small><small>Python</small></small></td>
+                <td><small><small>NumPy/Pandas</small></small></td>
+                <td><small><small>Sickit-learn/SciPy</small></small></td>
+                <td><small><small>Matplotlib/Seaborn</small></small></td>
+                <td><small><small>R</small></small></td>
+            </tr>
+            <tr>
+                <th><i><sup>Programming</sup></i></th>
+                <td><small><small>Python/SQL</small></small></td>
+                <td><small><small>JavaScript/React</small></small></td>
+                <td><small><small>C++</small></small></td>
+                <td><small><small>HTML</small></small></td>
+                <td><small><small>CSS</small></small></td>
+            </tr>
+            <tr>
+                <th><i><sup>Soft Skills</sup></i></th>
+                <td><small><small>Leadership</small></small></td>
+                <td><small><small>Agile Management</small></small></td>
+                <td><small><small>Waterfall Management</small></small></td>
+                <td><small><small>Team Work</small></small></td>
+                <td><small><small>Communication</small></small></td>
+            </tr>
+            <tr>
+                <th><i><sup>Platforms</sup></i></th>
+                <td><small><small>Microsoft Office</small></small></td>
+                <td><small><small>Microsoft Azure</small></small></td>
+                <td><small><small>Google Cloud services</small></small></td>
+                <td><small><small>Power BI</small></small></td>
+                <td><small><small>AWS</small></small></td>
+            </tr>
+        </table>
+        <h2><i>Networking</i></h2>
+        <a href="https://github.com/Bobisblack19" target="_blank">
+        Github</a>
+        <br /><a href="https://www.linkedin.com/in/robert-mendoza-22669540" target="blank">
+        Linkedin</a>
+        <h2><i>Write Me A Message</i></h2>
+        <form>
+            <input placeholder="Name"/><br>
+            <input placeholder="Email"/><br>
+            <textarea name="message" required></textarea><br>
+            <input type="submit" value="SEND" class="submit" />
+        </form>
+    </body>
+</html>
